@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "output": "Once upon a time, there was a young girl named Lily who lived in a small village. She was a kind and hardworking girl, but she was very poor. One day, Lily was walking through the forest when she came across a strange old man. The man was sitting on a rock, and he was wearing a long white beard and a pointy hat.\n\n\"Hello, child,\" the man said. \"What are you doing all alone in the forest?\"\n\n\"I'm going to the market,\" Lily said. \"I'm hoping to sell some of my vegetables to make some money.\"\n\n\"Well, you're in luck,\" the man said. \"I have something that will help you.\"\n\nThe man reached into his pocket and pulled out a small, brown backpack. \"This is a magic backpack,\" he said. \"It will always be full of whatever you need most.\"\n\nLily was skeptical at first, but she decided to take the backpack anyway. She thanked the man and continued on her way to the market.\n\nWhen Lily arrived at the market, she was amazed to see that the backpack was full of vegetables. She sold the vegetables quickly and made a lot of money. She was so happy that she had met the man in the forest.\n\nLily continued to use the magic backpack for many years. She always had enough food and money, and she was able to help many people in need. She became known as the girl with the magic backpack, and she was loved by everyone in the village.\n\nOne day, Lily was walking through the forest when she came across the man again. He was sitting on the same rock, and he was wearing the same long white beard and pointy hat.\n\n\"Hello, child,\" the man said. \"I'm glad to see you again.\"\n\n\"I'm glad to see you too,\" Lily said. \"Thank you for the magic backpack. It has changed my life.\"\n\n\"You're welcome,\" the man said. \"The magic backpack is a gift. It's meant to help you help others.\"\n\nLily smiled. \"I will,\" she said. \"I promise.\"\n\nLily continued to use the magic backpack for many more years. She helped people all over the world, and she made the world a better place.\n\nOne day, Lily died of old age. She was surrounded by her loved ones, and she was wearing the magic backpack.\n\nLily's story is a reminder that even the smallest act of kindness can make a big difference. The magic backpack is a symbol of hope, and it reminds us that we all have the power to make the world a better place.",
+      "safetyRatings": [
+        {
+          "category": "HARM_CATEGORY_DEROGATORY",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_TOXICITY",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_VIOLENCE",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUAL",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_MEDICAL",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS",
+          "probability": "NEGLIGIBLE"
+        }
+      ]
+    }
+  ]
+}
